@@ -1,2 +1,2 @@
 #!/bin/bash
-python src/grid.py > stdout
+python src/demo.py
